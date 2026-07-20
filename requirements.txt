@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+transformers
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
