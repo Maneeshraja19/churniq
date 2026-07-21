@@ -2,6 +2,8 @@
 
 **[🔗 Live Demo](https://churniq-maneesh.streamlit.app)**
 
+![ChurnIQ Screenshot](screenshots/app-screenshot.png)
+
 An end-to-end customer churn prediction tool that goes beyond a raw probability score — it uses a free, local LLM to translate model output into a plain-English risk summary and a concrete retention recommendation, the kind of thing you could actually hand to a customer success manager.
 
 ## The Problem
